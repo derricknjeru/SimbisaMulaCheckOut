@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mula checkout</string>
+    <string name="action_settings">Settings</string>
+    <string name="pay_with_mula">pay with mula</string>
+    <string name="mula_checkout">mula checkout sample</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_web_view">Checkout</string>
+    <string name="hint_number">Phone Number</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_customer_first_name">First Name</string>
+    <string name="empty_phone_number">Phone can\'t be empty</string>
+    <string name="empty_first_name">First name can\'t be empty</string>
+    <string name="empty_email">Email can\'t be empty</string>
+    <string name="empty_amount">Amount can\'t be empty</string>
+    <string name="hint_shop">e.g. Pizza inn westlands</string>
+    <string name="empty_shop">Shop can\'t be empty</string>
+</resources>
